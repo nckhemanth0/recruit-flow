@@ -1,0 +1,1 @@
+"""Recruit Flow FastAPI application."""

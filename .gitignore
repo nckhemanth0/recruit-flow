@@ -25,3 +25,5 @@ volumes/
 # Misc
 *.log
 uploads/
+final-doc.md
+docs/ER_DIAGRAM.md
